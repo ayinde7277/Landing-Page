@@ -71,6 +71,7 @@ ul a{
     justify-content:center;
     gap: 50px;
     margin-top: 35px;
+    margin-bottom: 70px;
 }
 .item{
     max-width: 150px;
@@ -85,4 +86,22 @@ ul a{
     font-size: 36px;
     font-weight: bold;
     color: #1f2937;
+}
+.comment{
+    height: 300px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.article{
+    max-width: 800px;
+}
+.testi{
+    font-size: 36px;
+    font-style: italic;
+}
+.author{
+    text-align: right;
+    font-weight: bold;
 }
