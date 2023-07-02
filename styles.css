@@ -135,3 +135,14 @@ ul a{
     border: 2px solid #f9faf8;
     border-radius: 10px;
 }
+.footer{
+    height: 100px;
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer p{
+    font-size: 24px;
+    color: #e5e7eb;
+}
