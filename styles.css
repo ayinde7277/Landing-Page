@@ -105,3 +105,33 @@ ul a{
     text-align: right;
     font-weight: bold;
 }
+.action{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.call{
+    width: 900px;
+    background-color: #3882f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    border-radius: 10px;
+    gap: 100px;
+}
+.to h2{
+    color:#f9faf8;
+    font-weight: bold;
+}
+.to p{
+    color: #e5e7eb;
+}
+.call button{
+    background-color: #3882f8;
+    padding: 10px 50px;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+}
