@@ -53,4 +53,4 @@ This landing page design was inspired by various resources and examples availabl
 
 If you have any questions, suggestions, or issues, please feel free to contact us at [Riliwanayinde40@gmail.com](mailto:Riliwanayinde40@gmail.com). We appreciate your feedback!
 ## live page
-This is the live page[https://ayinde7277.github.io/Landing-Page/](HERE)
+This is the live page[HERE](https://ayinde7277.github.io/Landing-Page/)
